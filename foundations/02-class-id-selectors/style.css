@@ -1,0 +1,16 @@
+.class{
+    background-color: #ffb6c1;
+    font-family: Verdana, sans-serif;
+}
+.class.three{
+    font-size: 32px;
+}
+#two{
+    color: #0000ff;
+    font-size: 36px;
+}
+#four{
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+}
